@@ -5,7 +5,7 @@
 
 ## Скачать
 
-Готовый PDF — в [Releases](../../releases/latest).
+Готовый PDF — в [Releases](/ivan-aleschin/cookbook/releases).
 
 ## Структура
 
